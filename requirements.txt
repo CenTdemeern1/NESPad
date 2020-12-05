@@ -1,0 +1,5 @@
+gym-retro
+numpy
+sounddevice
+scipy
+python-rtmidi
